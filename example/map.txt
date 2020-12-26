@@ -1,0 +1,4 @@
+r = ./map1.png r
+g = ./map2.png r
+b = ./map3.png r
+a = ./map4.png r
